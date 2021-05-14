@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aaba6"],{"11f6":function(e,n,a){"use strict";a.r(n);var c=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("div",[e._v("注册成功")])},s=[],t={name:"signSuccessfully"},u=t,l=a("2877"),i=Object(l["a"])(u,c,s,!1,null,"2af2216e",null);n["default"]=i.exports}}]);
