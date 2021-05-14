@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["not-found"],{"9b25":function(n,e,t){"use strict";t.r(e);var o=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("not found")])},u=[],c={name:"not-found"},a=c,r=t("2877"),s=Object(r["a"])(a,o,u,!1,null,"3e0c9156",null);e["default"]=s.exports}}]);
